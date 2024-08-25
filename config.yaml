@@ -1,0 +1,5 @@
+dns_config_file: dns_config.json
+icon_path: app_icon.png
+last_used_dns: Shecan
+log_file: dns_changer.log
+resolv_conf_path: /etc/resolv.conf
